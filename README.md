@@ -1,7 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Suhas Khilari</h1>
- <img align="right" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*on4XhJpeIN07Anf-FInefA.gif](https://github.com/Suhaskhilari75/Suhaskhilari75/blob/main/githubgif.gif" alt="coding"  width="400">
-
+ <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
 <h3 align="center">A passionate frontend developer from India Mainly in ReactJs</h3>
 
 - 🌱 I’m currently learning **React**
