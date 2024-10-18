@@ -1,5 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Suhas Khilari</h1>
+ <img align="right" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*on4XhJpeIN07Anf-FInefA.gif" alt="coding"  width="400">
+
 <h3 align="center">A passionate frontend developer from India Mainly in ReactJs</h3>
 
 - 🌱 I’m currently learning **React**
